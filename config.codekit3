@@ -4,14 +4,14 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "EA48CCB3-6B33-4E80-9516-BF2D2F7B945E"
+		"uuidString": "0D890487-35C5-4F42-B370-D9B0A5BF2482"
 		}
 	],
 "creatorBuild": "26680",
 "files": {
 	"\/assets\/imgs\/dwam\/DWAM_Home.jpg": {
 		"ft": 16384,
-		"iS": 193163,
+		"iS": 189428,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/dwam\/DWAM_Home.jpg",
@@ -22,7 +22,7 @@
 		},
 	"\/assets\/imgs\/dwam\/DWAM_Home@2x.jpg": {
 		"ft": 16384,
-		"iS": 438550,
+		"iS": 431999,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/dwam\/DWAM_Home@2x.jpg",
@@ -33,7 +33,7 @@
 		},
 	"\/assets\/imgs\/dwam\/DWAM_Individual.jpg": {
 		"ft": 16384,
-		"iS": 114818,
+		"iS": 112629,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/dwam\/DWAM_Individual.jpg",
@@ -44,7 +44,7 @@
 		},
 	"\/assets\/imgs\/dwam\/DWAM_Individual@2x.jpg": {
 		"ft": 16384,
-		"iS": 262135,
+		"iS": 258491,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/dwam\/DWAM_Individual@2x.jpg",
@@ -55,29 +55,29 @@
 		},
 	"\/assets\/imgs\/nft\/NFT_Admin.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 31340,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_Admin.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/imgs\/nft\/NFT_Admin@2x.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 75066,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_Admin@2x.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/imgs\/nft\/NFT_Home.jpg": {
 		"ft": 16384,
-		"iS": 444925,
+		"iS": 437888,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_Home.jpg",
@@ -88,7 +88,7 @@
 		},
 	"\/assets\/imgs\/nft\/NFT_Home@2x.jpg": {
 		"ft": 16384,
-		"iS": 1052598,
+		"iS": 1045672,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_Home@2x.jpg",
@@ -99,29 +99,29 @@
 		},
 	"\/assets\/imgs\/nft\/NFT_WhoWeAre.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 537979,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_WhoWeAre.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/imgs\/nft\/NFT_WhoWeAre@2x.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 1364587,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_WhoWeAre@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/imgs\/nft\/NFT_WifreframeHome.png": {
 		"ft": 32768,
-		"iS": 91931,
+		"iS": 85881,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_WifreframeHome.png",
 		"oF": 0,
@@ -132,7 +132,7 @@
 		},
 	"\/assets\/imgs\/nft\/NFT_WireframeGoFundMe.png": {
 		"ft": 32768,
-		"iS": 86193,
+		"iS": 80634,
 		"oA": 0,
 		"oAP": "\/assets\/imgs\/nft\/NFT_WireframeGoFundMe.png",
 		"oF": 0,
@@ -357,17 +357,10 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/CNAME": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/CNAME",
-		"oF": 0
-		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
@@ -442,11 +435,11 @@
 		"oF": 0
 		},
 	"\/lib\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/index.html",
+		"oF": 0
 		},
 	"\/lib\/js\/main-min.js": {
 		"ft": 64,
@@ -461,20 +454,20 @@
 	"\/lib\/js\/main.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/scripts\/main.js",
-		"oF": 3,
-		"sC": 0,
+		"oAP": "\/lib\/js\/main-min.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/lib\/js\/plugins.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/lib\/js\/plugins-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
@@ -502,9 +495,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/lib\/js\/vendor\/jquery-3.2.1.min-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
@@ -512,10 +505,10 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/lib\/js\/vendor\/modernizr-3.5.0.min-min.js",
-		"oF": 1,
-		"sC": 0,
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/lib\/styles\/scss\/aos\/_animations.scss": {
@@ -1462,80 +1455,80 @@
 		"uL": 1
 		},
 	"\/lib\/styles\/scss\/styles.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/styles\/styles.css",
-		"oF": 2,
+		"oAP": "\/lib\/styles\/scss\/styles.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
 	"\/lib\/work\/american-home-shield\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/american-home-shield\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/american-home-shield\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/clear-advantage-lighting\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/clear-advantage-lighting\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/clear-advantage-lighting\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/crossbrowsertesting\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/crossbrowsertesting\/index.html",
-		"oF": 3
+		"oAP": "\/lib\/work\/crossbrowsertesting\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/duo\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/duo\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/duo\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/gill-properties\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/gill-properties\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/gill-properties\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/hp-papers\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/hp-papers\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/hp-papers\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/juice-plus\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/juice-plus\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/juice-plus\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/triangle-insights-group\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/triangle-insights-group\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/triangle-insights-group\/index.html",
+		"oF": 0
 		},
 	"\/lib\/work\/zignyl\/index.kit": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/work\/zignyl\/index.html",
-		"oF": 2
+		"oAP": "\/lib\/work\/zignyl\/index.html",
+		"oF": 0
 		},
 	"\/main.js": {
 		"ft": 64,
@@ -1623,10 +1616,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 542913089,
-	"displayValue": "kaylaearwood.github.io.old",
+	"creationDate": 557084773,
+	"displayValue": "kaylaearwood.github.io",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-angryPicard",
+	"iconImageName": "meme-leo",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2826,7 +2819,7 @@
 			},
 		"object-property-newline": {
 			"active": 0,
-			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
 			},
 		"object-shorthand": {
 			"active": 0,
@@ -3610,7 +3603,7 @@
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
-	"sourceFolderName": "lib",
+	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
