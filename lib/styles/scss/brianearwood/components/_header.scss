@@ -1,0 +1,25 @@
+.main_header {
+	background-color: $main-header-background;
+  // background-color: #ffaaff;
+  padding: 6vw 0 2vw 0;
+	&__logo {
+    margin: 0;
+		font-size: 1.1em;
+    font-family: $font-stack-sans;
+    color: #777;
+
+    a {
+      font-weight: normal;
+      color: inherit;
+    }
+
+    @media screen and (max-width: 380px) {
+      font-size: 0.8rem;
+    }
+	}
+
+  .wrap {
+    padding-bottom: 1.5rem;
+  }
+}
+

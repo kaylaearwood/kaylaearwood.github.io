@@ -1,0 +1,45 @@
+
+
+
+// layout
+$site-max-width: 1280px;
+
+// colors
+$base-font-color: #333;
+
+$wrap--light: #f0f0f0;
+$wrap--dark: #3a3a3a;
+$wrap--dark2: #242424;
+
+$main-header-background: #fff;
+
+$intro-background: #f0f0f0;
+
+// fonts
+$font-stack-serif: (
+  "Lora", 
+  "Georgia", 
+  "Times", 
+  "Times New Roman", 
+  serif,
+);
+$font-stack-sans: (
+  "Work Sans",
+  "Avenir Next",
+  "Avenir",
+  "Segoe UI",
+  "Lucida Grande",
+  "Helvetica Neue",
+  "Helvetica",
+  "Fira Sans",
+  "Roboto",
+  "Noto",
+  "Droid Sans",
+  "Cantarell",
+  "Oxygen",
+  "Ubuntu",
+  "Franklin Gothic Medium",
+  "Century Gothic",
+  "Liberation Sans",
+  sans-serif,
+);

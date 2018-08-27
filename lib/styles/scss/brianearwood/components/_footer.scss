@@ -1,0 +1,25 @@
+.global_footer {
+
+  padding: 4rem 0;
+  line-height: 3;
+
+  &__next {
+    
+  }
+
+  &__contact {
+    a {
+      margin-left: 2rem;
+      
+      @media screen and (max-width: 580px) {
+        margin-left: 0;
+        display: block;
+        line-height: 2.2;
+      }
+
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+  }
+}
