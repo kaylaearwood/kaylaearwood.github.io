@@ -182,7 +182,7 @@
 		"oAP": "\/assets\/imgs\/orpheum-theatre\/Orpheum_Home.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/imgs\/orpheum-theatre\/Orpheum_Home@2x.jpg": {
@@ -193,7 +193,7 @@
 		"oAP": "\/assets\/imgs\/orpheum-theatre\/Orpheum_Home@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/imgs\/orpheum-theatre\/Orpheum_SeasonTicket.jpg": {
@@ -204,7 +204,7 @@
 		"oAP": "\/assets\/imgs\/orpheum-theatre\/Orpheum_SeasonTicket.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/imgs\/orpheum-theatre\/Orpheum_Wireframes.png": {
@@ -432,6 +432,13 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/lib\/includes\/_work_list.html",
+		"oF": 0
+		},
+	"\/lib\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/lib\/index.html",
 		"oF": 0
 		},
 	"\/lib\/index.kit": {
@@ -1453,6 +1460,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/lib\/styles\/scss\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/lib\/styles\/scss\/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/lib\/styles\/scss\/styles.scss": {
 		"aP": 0,
